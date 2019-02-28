@@ -1,0 +1,3 @@
+'1': {slic3r.extruder: 0, name: 'body'}
+'2': {slic3r.extruder: '2', slic3r.fill_angle: '30', slic3r.fill_density: '100%', slic3r.fill_pattern: 'concentric', name: 'lambda-cylinder', slic3r.modifier: '1'}
+        
