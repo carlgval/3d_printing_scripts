@@ -1,4 +1,4 @@
-#stl-to-amf
+# stl-to-amf
 
 Tool to convert, merge and modify stl files through command line. This tool
 takes one ore more stls as input, and merge them in one amf. If you add a
